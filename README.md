@@ -19,7 +19,7 @@
 
 ## 协作规范
 
-    [开智协作文档撰写指南](https://github.com/OpenMindClub/Share/wiki/HbDoc)
+   [开智协作文档撰写指南](https://github.com/OpenMindClub/Share/wiki/HbDoc)
 
    [Commit message 用语规范](https://github.com/OpenMindClub/Share/wiki/HbGitHubCommitMessage)
 
