@@ -1,4 +1,5 @@
-# 工作流说明
+# 「职业转型的打怪升级之旅」项目专用仓库
+## 工作流说明
 
 *微信
 
@@ -16,12 +17,12 @@ Code：存放领取后的任务，必要时可自创文件夹。
 
 存放项目资料
 
-# 协作规范
+## 协作规范
 
 [开智协作文档撰写指南](https://github.com/OpenMindClub/Share/wiki/HbDoc)
 
 [Commit message 用语规范](https://github.com/OpenMindClub/Share/wiki/HbGitHubCommitMessage)
 
-# Changelog
+## Changelog
 
 * 190120 赵秀娟创建
